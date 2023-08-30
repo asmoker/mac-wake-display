@@ -10,6 +10,20 @@ Install the package with:
 go get github.com/asmoker/mac-wake-display
 ```
 
+# Example
+
+```go
+package main
+
+import (
+	mwd "github.com/asmoker/mac-wake-display"
+)
+
+func main() {
+	mwd.WakeDisplay()
+}
+```
+
 ## Thanks
 
 - [BLEUnlock](https://github.com/ts1/BLEUnlock)
