@@ -10,7 +10,7 @@ Install the package with:
 go get github.com/asmoker/mac-wake-display
 ```
 
-# Example
+## Example
 
 ```go
 package main
